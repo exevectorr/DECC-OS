@@ -96,7 +96,7 @@ Both versions have:
 ---
 
 ## 📸 Screenshots
-
+![DECC-OS Screenshot](https://raw.githubusercontent.com/exevectorr/DECC-OS/main/assets/screenshot.png)
 ---
 
 ## 🛠️ Building

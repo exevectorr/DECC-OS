@@ -6,7 +6,7 @@ LDFLAGS := -m elf_i386 -T linker.ld
 ISO     := myos.iso
 KERNEL  := iso/boot/myos.bin
 
-C_SRCS  := kernel/kernel.c kernel/gdt.c kernel/idt.c kernel/framebuffer.c kernel/mouse.c kernel/font.c
+C_SRCS  := kernel/kernel.c kernel/gdt.c kernel/idt.c kernel/framebuffer.c kernel/mouse.c kernel/font.c kernel/keyboard.c
 ASM_SRCS:= boot/boot.asm kernel/isr.asm
 
 OBJS    := $(C_SRCS:.c=.o) $(ASM_SRCS:.asm=.o)

@@ -1,22 +1,28 @@
-                   OPEN ATTRIBUTION LICENSE (OAL) 1.0
-                     version 1, september 18 2026
-                     Copyright (c) 2026 exevectorr
+              OPEN ATTRIBUTION LICENSE (OAL) 1.2
+                 version 1, november 24 2026
+                Copyright (c) 2026 exevectorr
 
 PREAMBLE
-This License grants broad rights to use, copy, modify, distribute, and commercially use the Software while requiring preservation of the original Copyright Holder's attribution and prohibiting additional creator attribution within the Original Work.
+
+This License grants broad rights to use, copy, modify, distribute, and commercially use the Software while requiring preservation of the original Copyright Holder's attribution.
+This version introduces a mandatory same-license requirement for Modified Works. However, unlike OAL 1.1, OAL 1.2 does not require Modified Works to be open source or their source code to be publicly available.
 
 DEFINITIONS
+
 "Software" means the software, operating system, source code, binaries, documentation, assets, and other materials distributed under this License.
 "Original Work" means the Software as originally published by the Copyright Holder.
 "Modified Work" means any version of the Software that has been changed, modified, extended, translated, or otherwise altered by any person or organization.
 "Copyright Holder" means the person or organization identified in the copyright notice accompanying the Software.
 "Original Attribution" means any copyright notice, author name, creator credit, project credit, attribution statement, or other identification of the Copyright Holder contained in the Original Work.
+"Distribution" means making copies of the Software or a Modified Work available to another person or organization, whether free of charge or for a fee.
 
 GRANT OF RIGHTS
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of the Software, to use, copy, modify, study, create derivative works from, distribute, and commercially use the Software, subject to the terms and conditions of this License.
 These permissions are granted worldwide and are not limited by the number of copies, users, devices, installations, or distribution methods.
+
 PERMITTED USE
+
 The Software may be:
 * Used for any lawful purpose.
 * Used privately.
@@ -29,9 +35,12 @@ The Software may be:
 * Sold or otherwise distributed for a fee.
 * Used to create derivative works.
 
+All permitted uses remain subject to the requirements of this License.
+
 ATTRIBUTION REQUIREMENT
 
 The Original Attribution must remain unchanged in every copy and Modified Work distributed under this License.
+
 The Original Attribution includes, but is not limited to:
 * Copyright notices.
 * Author names.
@@ -45,6 +54,7 @@ The Original Attribution includes, but is not limited to:
 * Credits contained in graphical assets.
 * Credits contained in metadata.
 * Other attribution included in the Original Work.
+
 The Original Attribution must not be removed, altered, obscured, replaced, or relocated in a manner that causes the original attribution to be lost or misleading.
 If the Original Work contains attribution in a README file, that attribution must remain in that README file.
 If the Original Work contains attribution in a source-code comment, that attribution must remain in that source-code comment.
@@ -65,19 +75,35 @@ Modifications do not transfer ownership of the Original Work.
 A modifier may not represent the Original Work as their own creation.
 A modifier may not claim authorship or ownership of the Original Work merely because they have modified it.
 
+SAME-LICENSE REQUIREMENT
+
+All Modified Works distributed under this License MUST remain licensed under the Open Attribution License (OAL) 1.2.
+A modifier may not replace OAL 1.2 with another license for the Modified Work.
+A modifier may not distribute a Modified Work under a proprietary license, a different open-source license, or any other license that replaces OAL 1.2.
+The complete OAL 1.2 license must accompany every distribution of the Original Work or Modified Work, as required by the License Preservation section.
+The Same-License Requirement does not require a Modified Work to be open source.
+
+NO OPEN-SOURCE REQUIREMENT
+
+OAL 1.2 does not require Modified Works to be open source.
+A person or organization may modify the Software and distribute the Modified Work without publishing or providing its source code.
+Modified Works may be distributed in compiled, binary, executable, or other forms without making their source code available.
+A person or organization may keep modifications private or distribute them commercially without disclosing the corresponding source code.
+The Same-License Requirement must still be followed regardless of whether the Modified Work is open source or closed source.
+
 LICENSE PRESERVATION
 
 A complete copy of this License must accompany every distribution of the Software or a substantial portion of the Software.
 The original License must not be removed from distributions of the Original Work.
-This License must not be modified, replaced, or removed and represented as the original Open Attribution License (OAL) 1.0.
-Modified Works may contain additional terms concerning the modifications made by their authors, provided that those terms do not remove or restrict the rights granted by this License to the Original Work.
+This License must not be modified, replaced, or removed and represented as the original Open Attribution License (OAL) 1.2.
+Modified Works must retain the original license and comply with the Same-License Requirement.
 
 DISTRIBUTION
 
 The Original Work and Modified Works may be distributed in source-code, binary, executable, disk-image, physical-media, or any other form.
 The Software may be distributed free of charge or for a fee.
 The Software may be distributed through websites, repositories, package managers, physical media, commercial products, or other distribution methods.
-All distributions must comply with the Attribution Requirement and License Preservation requirements of this License.
+All distributions must comply with the Attribution Requirement, Same-License Requirement, and License Preservation requirements of this License.
 
 COMMERCIAL USE
 
@@ -99,6 +125,7 @@ NO WARRANTY
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
 TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE COPYRIGHT HOLDER DISCLAIMS ALL WARRANTIES, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT, SECURITY, PERFORMANCE, ACCURACY, RELIABILITY, AND FREEDOM FROM DEFECTS.
+
 THE COPYRIGHT HOLDER DOES NOT GUARANTEE THAT THE SOFTWARE WILL:
 * Function correctly.
 * Be free of bugs.
@@ -113,7 +140,6 @@ LIMITATION OF LIABILITY
 TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE COPYRIGHT HOLDER SHALL NOT BE LIABLE FOR ANY DAMAGES ARISING FROM OR RELATED TO THE SOFTWARE OR ITS USE.
 
 THIS INCLUDES, BUT IS NOT LIMITED TO:
-
 * Data loss.
 * File loss.
 * Hardware damage.
@@ -130,9 +156,7 @@ THIS INCLUDES, BUT IS NOT LIMITED TO:
 * Consequential damages.
 
 THE USER ASSUMES RESPONSIBILITY FOR USING THE SOFTWARE AND FOR ANY CONSEQUENCES RESULTING FROM SUCH USE.
-
 NO ADDITIONAL PERMISSION REQUIRED
-
 No additional permission from the Copyright Holder is required to exercise the rights expressly granted by this License, provided that all conditions of this License are followed.
 
 TERMINATION
@@ -148,19 +172,16 @@ All copyright and other intellectual-property rights in the Original Work remain
 
 ACCEPTANCE
 
-By using, copying, modifying, or distributing the Software, you agree to comply with the terms of the Open Attribution License (OAL) 1.0.
+By using, copying, modifying, or distributing the Software, you agree to comply with the terms of the Open Attribution License (OAL) 1.2.
 If you do not agree to these terms, you may not exercise the rights granted by this License.
 
 LICENSE VERSION
 
 This License is identified as:
-Open Attribution License (OAL) 1.0
-Future versions of the Open Attribution License may contain different terms. This version remains applicable to Software specifically distributed under OAL 1.0 unless the Copyright Holder explicitly states otherwise.
+Open Attribution License (OAL) 1.2
+OAL 1.2 supersedes OAL 1.0 and OAL 1.1 only for projects explicitly distributed under OAL 1.2.
+Software originally distributed under OAL 1.0 or OAL 1.1 remains subject to its original license unless its Copyright Holder explicitly relicenses it under OAL 1.2.
+Future versions of the Open Attribution License may contain different terms. This version remains applicable to Software specifically distributed under OAL 1.2 unless the Copyright Holder explicitly states otherwise.
 
+license copyright (c) exevectorr 2026.
 END OF LICENSE
-
-Open Attribution License (OAL) 1.0
-
-Copyright (c) 2026 exevectorr
-
-Permission is granted under the terms above.

@@ -4,7 +4,7 @@
 
 ![version](https://img.shields.io/badge/version-1.0.0-blue)
 ![platform](https://img.shields.io/badge/platform-x86%20%7C%20QEMU%20%7C%20Real%20HW-lightgrey)
-![license](https://img.shields.io/badge/license-OAL%201.0-orange)
+![license](https://img.shields.io/badge/license-OAL%201.2-orange)
 ![lang](https://img.shields.io/badge/language-C%20%2B%20Assembly-red)
 ![boot](https://img.shields.io/badge/boot-GRUB%20%2F%20Multiboot-purple)
 
